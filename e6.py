@@ -5,5 +5,5 @@ if (n1>n2):
 else:
     if (n1<n2):
         print("El número", n2, "es mayor que", n1)
-else:
-    print("Los números son iguales.")
+    else:
+        print("Los números son iguales.")
